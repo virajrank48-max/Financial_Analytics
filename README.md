@@ -55,8 +55,7 @@ All numbers are computed in the notebook from the input data; nothing is typed i
 
 ```
 .
-├── NBFC_Credit_Analytics.ipynb      # full analysis (run top to bottom)
-├── data/
+├── |── NBFC_Credit_Analytics.ipynb      # full analysis (run top to bottom)
 │   ├── NBFC_merged_final.xlsx       # sheets: Panel, Segments, Fill_Log, Change_Log
 │   └── Consolidated_Segment_Data_Clean.xlsx   # optional cross-check
 ├── figures/                         # charts saved by the notebook
